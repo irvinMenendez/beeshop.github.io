@@ -39,7 +39,7 @@ const catalogo = document.querySelector(".catalogo");
 
 let polen = new producto("Polen orgánico","40$","250grs","imagenes/Tarro Polen Orgánico.jpg");
 
-let mielConPanal = new producto("Miel con panal","28$","250grs","imagenes/Tarro Miel con Panal con Etiqueta Del Montañez (Vista ampliada).png");
+let mielConPanal = new producto("Miel con panal","28$","250grs","imagenes/Tarro Miel con Panal con Etiqueta Del Montañez (Vista ampliada).jpg");
 
 let mielOrganica = new producto("Miel orgánica","16$","250grs","imagenes/Tarro Miel Orgánica1.jpg");
 
