@@ -1,0 +1,101 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+.header {
+	display: flex;
+	padding: 20px;
+	background: #444444;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.registro{
+	color: #fff;
+	font-size: 20px;
+	margin: 0px 20px;
+	padding: 5px;
+	border: 1px solid #fff;
+	border-radius: 5px;
+}
+.registro:hover{
+	background: #aaa;
+	color: #444;
+}
+
+.Titulo_paginaWeb{
+	color: #eee;
+	padding: 0px 0px 10px 0px;
+	margin: 0px;
+	user-select: none;
+}
+nav{
+	display: flex;
+	justify-content: flex-end;
+}
+ul {
+	display: flex;
+	list-style: none;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	flex-wrap: wrap;
+}
+li{
+	margin-right: 20px;
+}
+.nav-bar{
+	font-size: 17px;
+	color: #fff;
+	text-decoration: none;
+	margin: 10px 0px;
+	user-select: none;
+}
+.nav-bar:hover{
+	color: #ccc;
+}
+
+p {
+	margin: 20px;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+main{
+	background-image: linear-gradient(to bottom,#ff5,#ca0);
+
+	padding: 15px;
+
+
+}
+
+
+
+
+
+footer{
+	display: flex;
+	background: #333;
+	align-items: center;
+	justify-content: center;
+	background: #444444;
+}
+.copyright{
+	color: #fff;
+}
